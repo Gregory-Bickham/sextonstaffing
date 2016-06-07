@@ -238,7 +238,7 @@ i.icon-lg.icon-line {
 		display: none;
 	}
 	.logoStyle{
-    	margin-top: -14%;
+    	margin-top: -20%;
     	height: 60%;
     	width: 80%;
 	}
@@ -246,6 +246,13 @@ i.icon-lg.icon-line {
 	.btnResponse{
     	margin-right: 30%;
 	}
+
+	.cSFont{
+	margin-top: -5%;
+	color: white;
+	font-style: bold;
+	font-size: 6.25em;
+}
 
 }
 
