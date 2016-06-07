@@ -9,7 +9,7 @@
 		<div class="cover-bg-top"></div>
 		<div class="container">
 			<div class="coming-soon-v4-top text-center">
-				<img src="img/SSTransparentLogo.png" class="logoStyle" alt="logo">
+				<img src="img/SSTransparentLogo.png" class="logoStyle logoStyleResponse" alt="logo">
 				<div class="margin-bottom-20 cSFont">Coming Soon</div>
 				<p>  Sexton Staffing is a burgeoning company built on connecting highly qualified candidates to prominent estates in Texas. We are an elite employment agency that places housekeepers, cooks/chefs, nannies, home healthcare providers, personal assistants, and estate managers. We take great pride in hand selecting highly qualified applicants for each position. Our success is not only measured by the happiness of our clients, but also our candidates.
 </p>
@@ -149,7 +149,7 @@
 				<form action="#">
 					<div class="col-md-8">
 						<span class="input-group-btn">
-							<a href="mailto:sextongenna@gmail.com?Subject='Resume'"><button class="btn-u btn-u-dark-blue" type="button">Email Your Resumé</button></a>
+							<a href="mailto:sextongenna@gmail.com?Subject='Resume'"><button class="btn-u btn-u-dark-blue btnResponse" type="button">Email Your Resumé</button></a>
 						</span>
 					</div><!-- /input-group -->
 				</form>

@@ -154,6 +154,8 @@ i.icon-lg.icon-line {
 	font-size: 14px;
 }
 
+}
+
 @media (max-width: 992px) {
 	body {
 		margin-bottom: 600px;
@@ -235,6 +237,16 @@ i.icon-lg.icon-line {
 	#defaultCountdown span.countdown-section:last-child {
 		display: none;
 	}
+	.logoStyle{
+    	margin-top: -14%;
+    	height: 60%;
+    	width: 80%;
+	}
+
+	.btnResponse{
+    	margin-right: 30%;
+	}
+
 }
 
 /* Common heading */
