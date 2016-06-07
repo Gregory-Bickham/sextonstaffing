@@ -77,8 +77,10 @@
 }
 
 .cSStyle{
+	margin-bottom: 2%;
 	color: white;
 	font-size: 18px;
+
 }
 .cSStyleBottom{
 	color: white;
@@ -120,6 +122,6 @@
 	margin-top: -5%;
 	color: white;
 	font-style: bold;
-	font-size: 10.0em;
+	font-size: 8.0em;
 }
 
