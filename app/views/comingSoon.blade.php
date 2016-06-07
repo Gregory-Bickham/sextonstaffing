@@ -10,8 +10,8 @@
 		<div class="container">
 			<div class="coming-soon-v4-top text-center">
 				<img src="img/SSTransparentLogo.png" class="logoStyle" alt="logo">
-				<h1 class="margin-bottom-20">Coming Soon</h1>
-				<p>  Sexton Staffing is a burgeoning company built on connecting highly qualified candidates to prominent estates in Texas. We are an elite employment agency that places housekeepers, cooks/chefs, nannies, home healthcare providers, personal assistants, and estate managers. We take great pride in hand selecting perfect candidate for each position. Our success is measured by the happiness of not only our clients, but also our candidates.
+				<div class="margin-bottom-20 cSFont">Coming Soon</div>
+				<p>  Sexton Staffing is a burgeoning company built on connecting highly qualified candidates to prominent estates in Texas. We are an elite employment agency that places housekeepers, cooks/chefs, nannies, home healthcare providers, personal assistants, and estate managers. We take great pride in hand selecting highly qualified applicants for each position. Our success is not only measured by the happiness of our clients, but also our candidates.
 </p>
 				<!-- Coming Soon Plugin -->
 				<!-- <div class="coming-soon-plugin">
@@ -145,7 +145,7 @@
 					<li class=" wow pulse contactStyle"><a href="tel:1-512-574-7045"><i class="icon-custom icon rounded icon-bg-light fa fa-phone"></i></a>1.512.574.7045 </li>
 				</ul>
 
-				<p class="wow fadeInDown cSStyle">Interested in joining the team?</p>
+				<div class="wow fadeInDown cSStyle">Interested in joining the team?</div>
 				<form action="#">
 					<div class="col-md-8">
 						<span class="input-group-btn">
@@ -179,4 +179,9 @@
 
 	
 
+@stop
+
+@section('scripts')
+
+	<script src="text/javascript"></script>
 @stop
