@@ -139,7 +139,7 @@
 			<!-- Coming Soon Content -->
 			<div class="coming-soon-v4-bottom text-center">
 				<div class="heading white">
-					<h2 class="wow pulse title-v2 title-center">Get in touch</h2>
+					<h2 class="wow pulse title-v2 title-center marginAdjustHeader2">Get in touch</h2>
 				</div>
 				<ul class="list-unstyled social-links margin-bottom-20 marginRightAdjust">
 					<li class=" wow pulse contactStyle"><a href="tel:1-512-574-7045"><i class="icon-custom icon rounded icon-bg-light fa fa-phone"></i></a>1.512.574.7045 </li>
