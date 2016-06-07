@@ -11,7 +11,21 @@
 |
 */
 
-Route::get('/', function()
-{
-	return View::make('hello');
-});
+
+Route::get('/', 'HomeController@showComingSoon');
+
+// Route::get('/forecast', 'HomeController@forecast');
+
+// Route::get('/resume', 'HomeController@showResume');
+
+// Route::get('/portfolio', 'HomeController@showPortfolio');
+
+// Route::resource('posts', 'PostsController');
+
+// Route::get('/login', 'HomeController@showLogIn');
+
+// Route::post('/login', 'HomeController@doLogin');
+
+// Route::get('/logout', 'HomeController@logOut');
+
+

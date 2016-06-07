@@ -1,0 +1,116 @@
+/* Add here all your css styles (customizations) */
+
+.marginAdjust{
+	margin-bottom: 510px;
+}
+
+.marginRightAdjust{
+	margin-right: 38px;
+}
+
+.paddingTop24{
+	padding-top: 24px;
+}
+
+.logoStyle{
+	margin-top: -14%;
+	height: 70%;
+	width: 70%;
+}
+
+.footerLogo{
+	height: 30%;
+	width: 30%;
+}
+
+.leftPicture{
+	height: 125px;
+	width: 125px;
+	border-radius: 50%;
+	box-shadow: -5px 5px 5px #888888;
+	color: white;
+	border: solid black 2px;
+}
+
+.rightPicture{
+	height: 125px;
+	width: 125px;
+	border-radius: 50%;
+	box-shadow: 5px 5px 5px #888888;
+	color: white;
+	border: solid black 2px;
+}
+
+.middlePicture{
+	height: 145px;
+	width: 145px;
+}
+
+.roundCorners{
+	border-radius: 10px;
+}
+
+.marginAdjustHeader2{
+	margin-top: -4%;
+}
+
+.contactStyle{
+	color: white;
+	text-align: center;
+	font-size: 24px;
+}
+
+.marginAdjustErrorLogo{
+	margin-top: -30%;
+}
+
+.errorStyle{
+	margin-top: -10%;
+	color: white;
+	font-size: 36px;
+}
+
+.errorStyle2{
+	color: white;
+	font-size: 24px;
+}
+
+.cSStyle{
+	color: white;
+	font-size: 24px;
+}
+.cSStyleBottom{
+	color: white;
+	font-size: 14px;
+}
+
+.bg-top {
+	background: url(../img/bg/5test.jpg) no-repeat center center / cover;
+	position: relative;
+	z-index: 1;
+	overflow-y: hidden;
+	
+}
+.cover-bg-top {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,.6);
+	z-index: -1;
+}
+
+.btnMargin{
+	margin: 12% 12%;
+}
+
+.bold18{
+	font-style: bold;
+	font-size: 18px;
+}
+
+.bold14{
+	font-style: bold;
+	font-size: 14px;
+}

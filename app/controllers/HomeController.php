@@ -15,9 +15,50 @@ class HomeController extends BaseController {
 	|
 	*/
 
-	public function showWelcome()
+	public function showComingSoon()
 	{
-		return View::make('hello');
+		return View::make('comingSoon');
 	}
 
+// 	public function forecast()
+// 	{
+// 		return View::make('weather_map');
+// 	}
+
+// 	public function showResume()
+// 	{
+// 		return View::make('resume');
+// 	}
+
+// 	public function showPortfolio()
+// 	{
+// 		return View::make('portfolio');
+// 	}
+
+// 	public function showLogIn()
+// 	{
+// 		if (Auth::check()) {
+// 			return Redirect::action('PostsController@index');
+// 		}
+// 		return View::make('users.login');
+// 	}
+// 	public function doLogIn()
+// 	{
+// 		if (Auth::attempt(array('email' => Input::get('email'), 'password' => Input::get('password')))) 
+// 		{
+//     		return Redirect::intended('/posts');
+		
+// 		} else {
+    		
+//     		Session::flash('errorMessage', "Wrong eMail/password combination.");
+//     		return Redirect::back()->withInput();
+// 		}
+// 	}
+// 	public function logOut()
+// 	{
+// 		Auth::logout();
+// 		return Redirect::action('HomeController@showLogIn');
+// 	}
+
 }
+
