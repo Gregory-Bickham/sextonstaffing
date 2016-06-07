@@ -125,3 +125,22 @@
 	font-size: 8.0em;
 }
 
+@media (max-width: 500px){
+	.logoStyle {
+    	margin-top: -30%;
+    	height: 30%;
+    	width: 60%;
+	}
+
+	.btnResponse{
+    	margin-right: 30%;
+	}
+
+	.cSFont{
+		margin-top: -5%;
+		color: white;
+		font-style: bold;
+		font-size: 5em;
+	}
+}
+
