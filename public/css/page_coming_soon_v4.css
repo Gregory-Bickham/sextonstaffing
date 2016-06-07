@@ -237,10 +237,10 @@ i.icon-lg.icon-line {
 	#defaultCountdown span.countdown-section:last-child {
 		display: none;
 	}
-	.logoStyle{
-    	margin-top: -20%;
-    	height: 60%;
-    	width: 80%;
+	.logoStyle {
+    	margin-top: -30%;
+    	height: 30%;
+    	width: 60%;
 	}
 
 	.btnResponse{
@@ -248,11 +248,11 @@ i.icon-lg.icon-line {
 	}
 
 	.cSFont{
-	margin-top: -5%;
-	color: white;
-	font-style: bold;
-	font-size: 6.25em;
-}
+		margin-top: -5%;
+		color: white;
+		font-style: bold;
+		font-size: 5em;
+	}
 
 }
 
