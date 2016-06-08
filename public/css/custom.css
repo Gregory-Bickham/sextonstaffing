@@ -15,7 +15,7 @@
 .logoStyle{
 	margin-top: -14%;
 	height: 60%;
-	width: 60%;
+	width: 100%;
 }
 
 .footerLogo{
@@ -129,11 +129,11 @@
 	.logoStyle {
     	margin-top: -30%;
     	height: 30%;
-    	width: 60%;
+    	width: 100%;
 	}
 
 	.btnResponse{
-    	margin-right: 30%;
+    	margin-right: 25%;
 	}
 
 	.cSFont{
