@@ -121,7 +121,7 @@
 
 						</div>
 
-						<button type="button" class="btn btn-group btn-group-xs btn-info roundCorners glyphicon glyphicon-menu-down" data-toggle="collapse" data-target="#lauraBio"></button>
+						<button type="button" class="btn btn-group btn-group-xs btn-info roundCorners botMargin glyphicon glyphicon-menu-down" data-toggle="collapse" data-target="#lauraBio"></button>
   						
 					</div>
 				</div>
