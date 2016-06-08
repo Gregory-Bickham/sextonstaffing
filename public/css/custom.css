@@ -91,7 +91,6 @@
 .bg-top {
 	background: url(../img/bg/butler_hand.jpg) no-repeat center center / cover;
 	position: relative;
-	height: 95%;
 	z-index: 1;
 	overflow-y: hidden;
 	
