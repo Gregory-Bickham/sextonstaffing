@@ -133,9 +133,12 @@
 	}
 
 	.botMargin{
-    	margin-bottom: 25%;
+    	margin-bottom: 15%;
 	}
 
+	.btnResponse{
+		margin-right: 25%
+	}
 	.cSFont{
 		margin-top: -5%;
 		color: white;
@@ -144,6 +147,9 @@
 	}
 	.botMarg{
 		margin-bottom: 25%;
+	}
+	.marginRightAdjust{
+		margin-right: 0px;
 	}
 }
 
